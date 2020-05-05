@@ -6,7 +6,5 @@ Smart irrigation techniques are becoming more common in agricultural environment
 
 # Results
 
-![Raw Cell Phone Input](/colorspace/results/succulent/IMG_3815.jpg | width=50%)
-<img src="/colorspace/results/succulent/IMG_3815.jpg" alt="Raw Cell Phone Input" width="50%"/>
-
-![Color Processed Output](/colorspace/results/succulent/b30.jpg)
+<img src="/colorspace/results/succulent/IMG_3815.jpg" alt="Raw Cell Phone Input" width="25%"/>
+<img src="/colorspace/results/succulent/b30.jpg" alt="Color Processed Output" width="25%"/>
